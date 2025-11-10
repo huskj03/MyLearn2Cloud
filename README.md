@@ -1,1 +1,2 @@
 # MyLearn2Cloud
+Hi all!  My name is Jessie or Jess and my pronouns are she/her. I am fairly new to Github and the learntocloud guide that is prompting to me to write this.  I am currently a part time student to the AWS Cloud Institute but also trying to find other ways to diversify how I can learn networking/cloud skills. When I'm not learning, I am a full time Field Service Engineer that works on medical imaging equipment (which still humbles me on a daily basis). I have a Bachelors of Science in Health Information Management. 
